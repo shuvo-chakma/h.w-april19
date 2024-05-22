@@ -11,7 +11,7 @@ body{
 
 header{
     padding: 30px 0;
-    border: 1px solid;
+/*     border: 1px solid; */
 }
 .logo{
     float: left;
@@ -25,8 +25,8 @@ header{
     overflow: hidden;
     margin: 0 auto;
     width: 90%;
-    border: 1px solid;
- 
+/*     border: 1px solid;
+  */
 }
 .menu{
     float: right;
@@ -76,7 +76,7 @@ header{
 .container2{
     margin: 0 auto;
     width: 80%;
-    border: 1px solid;
+/*     border: 1px solid; */
     padding: 100px 0;
 }
 .g_content{}
@@ -102,7 +102,7 @@ header{
     margin-top:40px;
     text-decoration: none;
     color: #626262;
-    border: 1px solid;
+/*     border: 1px solid; */
     display: inline-block;
 } 
 /* getaway end */
@@ -117,7 +117,7 @@ header{
 }
 .bl_item{
     width: 47%;
-    border: 1px solid;
+/*     border: 1px solid; */
     float: left;
     box-sizing: border-box;
 
